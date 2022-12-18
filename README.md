@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gisellegarcia4
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL and Tableau
+- 👀 I’m interested in data analytics & cybersecurity
+- 🌱 I’m currently studying for CompTIA CySA+
 - 💞️ I’m looking to collaborate on projects I can add to my portfolio
 - 📫 How to reach me via email: gsell.garcia4@gmail.com
 
